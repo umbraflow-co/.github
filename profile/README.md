@@ -26,7 +26,7 @@ We design, build and run production web software end to end: the database, the A
 ## Why teams pick us
 
 - **You talk to the developers.** No account managers, no handoffs. The people you brief are the people who build.
-- **Fixed quotes in AUD.** Clear scope and timeline agreed before a line of code is written.
+- **Fixed-price quotes.** Clear scope and timeline agreed before a line of code is written.
 - **Built from scratch.** No page builders, no bloated templates. Every project is designed to convert and tuned to fly.
 - **We stick around.** Monitoring, updates and improvements on Australian hours, from people who know your codebase.
 
@@ -48,6 +48,6 @@ A clear scope and fixed quote up front. Sign-off on the design before we build. 
 
 ## Talk to us
 
-Got a project in mind? We scope it, quote it fixed in AUD, and you see working software early and often.
+Tell us what you want to build and we'll tell you exactly how we'd ship it: a clear plan, a fixed price, and working software in your hands sooner than you expect.
 
 **[hello@umbraflow.com.au](mailto:hello@umbraflow.com.au)** · Mon-Fri 9am-6pm AEST/AEDT
