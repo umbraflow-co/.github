@@ -30,19 +30,11 @@ We design, build and run production web software end to end: the database, the A
 - **Built from scratch.** No page builders, no bloated templates. Every project is designed to convert and tuned to fly.
 - **We stick around.** Monitoring, updates and improvements on Australian hours, from people who know your codebase.
 
-## From first call to launch
-
 <div align="center">
 
-**Discovery** → **Design** → **Build** → **Launch** → **Support**
-
-</div>
-
-A clear scope and fixed quote up front. Sign-off on the design before we build. Working software you can click early and often, and a team that is still there after launch.
-
-<div align="center">
-
-**50+** projects shipped · **95+** avg. Lighthouse score · **2** senior devs, zero middlemen · **AEST/AEDT** support hours
+| 50+ | 95+ | 2 | AEST |
+|:---:|:---:|:---:|:---:|
+| Projects shipped | Avg. Lighthouse score | Senior devs, zero middlemen | Local support hours |
 
 </div>
 
